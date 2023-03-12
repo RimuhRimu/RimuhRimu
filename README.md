@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @RimuhRimu
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning Lua
-- 💞️ I’m looking to collaborate on nothing in special, I'd like to learn anything new if needed
-- 📫 You can find me as @rimuhrimu on [twitter](https://twitter.com/RimuhRimu) or [tumblr](https://rimuhrimu.tumblr.com/)
+- [![RimuhRimu's GitHub stats](https://github-readme-stats.vercel.app/api?username=rimuhrimu&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+- [![RimuhRimu's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rimuhrimu&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/sumneko)
